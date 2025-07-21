@@ -1,0 +1,11 @@
+#city{
+    width: 200px;
+    height: 20px;
+}
+#btn{
+    padding: 13px 26px;
+}
+.Search-div{
+    width: 100vw;
+    display: block;
+}
