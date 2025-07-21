@@ -47,7 +47,7 @@ const SearchBox = ( {updateInfo}) => {
   
   return (
     <div className='Search-div'>
-        <h1>Find Weather Information</h1>
+        <h3>Find Weather Information</h3>
         <form onSubmit={handleSubmit}>
         <TextField
   id="city"
